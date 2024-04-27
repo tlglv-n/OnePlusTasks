@@ -11,7 +11,7 @@ git clone https://github.com/tlglv-n/OnePlusTasks.git
 - All inputs work with terminal
 - Write without mistakes as btc, not тbtc, deleting initially "т", because fmt.Scan couldn't read it correctly
 
-<img width="433" alt="image" src="https://github.com/tlglv-n/OnePlusTasks/assets/98637977/35568680-dda0-43d0-b45f-005a0c216f3f">
+![Images Alt Text](Assets/1.png)
 
 ! Be sure that every 10 mins in terminal we will get message: "Currencies updated" by requirements
 

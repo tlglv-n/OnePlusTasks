@@ -1,4 +1,4 @@
-# OnePlusTasks
+# Один Плюс
  
 If you want to clone this repo, then here is instruction:
 ```
